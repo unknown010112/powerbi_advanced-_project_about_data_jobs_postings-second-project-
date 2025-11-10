@@ -1,4 +1,4 @@
-# Data Jobs Dashboard 2.0 w/ Power BI
+# Data Jobs Dashboard 2.0  Power BI
 
 ![data jobs dashboard](images/Project2_Dashboard_Overview.gif)
 
